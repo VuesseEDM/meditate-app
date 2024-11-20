@@ -1,0 +1,124 @@
+.music-player-container {
+  margin: 30px auto;
+  padding: 10px;
+  text-align: center;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+}
+
+.titles-track {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.title-track {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 1rem;
+  border-radius: 30px;
+  margin: 10px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.title-track:hover {
+  background-color: #0056b3;
+  transform: scale(1.1);
+}
+
+.title-track:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.title-track:disabled:hover {
+  background-color: #ccc;
+}
+
+.track-selected {
+  font-size: 1.3rem;
+  margin-top: 10px;
+  color: #333;
+  font-weight: 600;
+}
+
+.play-pause-btn {
+  background-color: #28a745;
+  margin-top: 10px;
+  color: white;
+  padding: 17px 17px;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.play-pause-btn:hover {
+  background-color: #218838;
+  transform: scale(1.1);
+}
+
+.play-pause-btn:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+audio {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .music-player-container {
+    width: 90%;
+  }
+
+  .titles-track {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+
+  .title-track {
+    font-size: 1rem;
+    padding: 10px 18px;
+    margin: 10px;
+  }
+
+  .track-selected {
+    font-size: 1rem;
+  }
+
+  .play-pause-btn {
+    padding: 12px 12px;
+    font-size: 1.2rem;
+  }
+}
+@media (max-width: 480px) {
+  .music-player-container {
+    padding: 10px;
+    width: 95%;
+  }
+
+  .titles-track {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+
+  .title-track {
+    font-size: 0.8rem;
+    padding: 6px 12px;
+    margin: 5px;
+  }
+
+  .track-selected {
+    font-size: 1rem;
+  }
+
+  .play-pause-btn {
+    padding: 12px 12px;
+    font-size: 1.2rem;
+  }
+}
