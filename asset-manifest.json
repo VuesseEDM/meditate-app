@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/meditate-app/static/css/main.e6c13ad2.css",
-    "main.js": "/meditate-app/static/js/main.0118311e.js",
+    "main.css": "/meditate-app/static/css/main.c9c505a3.css",
+    "main.js": "/meditate-app/static/js/main.c2b15dbb.js",
+    "static/media/sonno.jpg": "/meditate-app/static/media/sonno.800beb45917d79391315.jpg",
+    "static/media/meditate2.jpg": "/meditate-app/static/media/meditate2.6fa6bbeb5e6c4ddcc7de.jpg",
+    "static/media/meditate1.jpg": "/meditate-app/static/media/meditate1.83cbfe10d60c3de95bd7.jpg",
+    "static/media/woman-meditate.jpg": "/meditate-app/static/media/woman-meditate.d240c0df125b51ba9eef.jpg",
     "index.html": "/meditate-app/index.html",
-    "main.e6c13ad2.css.map": "/meditate-app/static/css/main.e6c13ad2.css.map",
-    "main.0118311e.js.map": "/meditate-app/static/js/main.0118311e.js.map"
+    "main.c9c505a3.css.map": "/meditate-app/static/css/main.c9c505a3.css.map",
+    "main.c2b15dbb.js.map": "/meditate-app/static/js/main.c2b15dbb.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.0118311e.js"
+    "static/css/main.c9c505a3.css",
+    "static/js/main.c2b15dbb.js"
   ]
 }
