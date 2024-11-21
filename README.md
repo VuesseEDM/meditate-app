@@ -1,6 +1,6 @@
 # 🧘‍♀️ Meditate App     
 
-_Benvenuto/a in **Meditate**, l'app perfetta per aiutarti a coltivare una mente calma e rilassata. Scopri i benefici della meditazione e utilizza un timer personalizzabile per adattare la pratica alle tue esigenze._ 
+_Benvenuto/a in **Meditate**, l'app perfetta per aiutarti a coltivare una mente calma e rilassata. Scopri i benefici della meditazione e utilizza un timer personalizzabile per le tue esigenze._ 
 
 ---  
 
@@ -22,7 +22,7 @@ L'app **Meditate** è stata sviluppata utilizzando le seguenti tecnologie:
 All'interno dell'app troverai una collezione di frasi e motivazioni per ispirarti e aiutarti a comprendere l'importanza della meditazione.  
 
 ### ⏱️ Timer personalizzabile  
-Un timer facile da usare che ti permette di personalizzare la durata delle tue sessioni di meditazione, rendendo ogni pratica unica e adattata alle tue necessità.  
+Un timer facile da usare che ti permette di personalizzare la durata delle tue sessioni di meditazione.  
 
 ---
 ### Anteprima
