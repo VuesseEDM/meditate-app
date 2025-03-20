@@ -33,7 +33,7 @@ Un timer facile da usare che ti permette di personalizzare la durata delle tue s
 🌐 **Contacts**  
 ---
 
-- **LinkedIn**  : https://www.linkedin.com/in/vincenzo-sorrentino-2496052b6
+- **LinkedIn**  : https://www.linkedin.com/in/vincenzo-sorrentino-front-end-developer/
 
 - **Instagram**  : https://www.instagram.com/vuesse_edm/
 
